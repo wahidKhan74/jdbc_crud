@@ -8,7 +8,7 @@ public class DatabaseConnection {
 	
 	static final String USERNAME ="sam";
 	static final String PASSWORD ="sam121";	
-	static final String DB_URL ="jdbc:mysql://localhost:3306/demodb";	
+	static final String DB_URL ="jdbc:mysql://localhost:3306/demo";	
 	static final String JDBC_DRIVER ="com.mysql.jdbc.Driver";
 	
 	public static Connection initConnection() {

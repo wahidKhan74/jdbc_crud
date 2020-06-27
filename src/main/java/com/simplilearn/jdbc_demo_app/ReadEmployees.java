@@ -41,6 +41,10 @@ public class ReadEmployees {
 //2. select * from employees where first_name='John' and last_name='Smith';
 
 
+// 2. write update query with PS for updating an employee with 
+// first_name ="G" and last_name ="xyz"  where id="2";
+
+// delete employee with PS where id = 10;
 
 
 
